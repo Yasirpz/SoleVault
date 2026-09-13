@@ -1,17 +1,17 @@
 # Sprint 1: System Architecture & Scope Definition
 
-* **Course:** E-Commerce[cite: 1]
+* **Course:** E-Commerce
 * **Project Name:** SoleVault (Authenticated Collectible Sneakers)
-* **Student:** Individual Submission[cite: 1]
-* **File Location:** `/docs/SPRINT_1.md`[cite: 1]
+* **Name:** Yasir Parveez
+* **File Location:** `/docs/SPRINT_1.md`
 
 ---
 
 ## Section 1: Target Audience & Market Focus
 
 ### Primary Persona
-* **Demographic:** Sneakerheads, streetwear collectors, and retail footwear enthusiasts aged 18–35 looking to buy and trade rare, limited-edition, or deadstock sneakers[cite: 1].
-* **Characteristics:** High brand awareness, digitally native, mobile-first shoppers who require absolute certainty regarding product authenticity, precise sizing, and condition verification prior to purchase[cite: 1].
+* **Demographic:** Sneakerheads, streetwear collectors, and retail footwear enthusiasts aged 18–35 looking to buy and trade rare, limited-edition, or deadstock sneakers.
+* **Characteristics:** High brand awareness, digitally native, mobile-first shoppers who require absolute certainty regarding product authenticity, precise sizing, and condition verification prior to purchase.
 
 ### Core Pain Point
 Online secondary sneaker marketplaces are saturated with counterfeit pairs, inconsistent condition descriptions, and fragmented sizing data[cite: 1]. Buyers lack a single, reliable platform offering multi-point authenticity verification, transparent grade condition reporting, and real-time inventory tracking for scarce footwear[cite: 1].
